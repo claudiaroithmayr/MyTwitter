@@ -1,0 +1,110 @@
+#hauptbox{
+background-color:#f2f2f2;	
+font-family:Arial;
+margin-top:-30px;
+}	
+
+#ueberschrift{
+background-color: white;
+color:#5DADE2;
+font-size:50px;
+text-align:left;
+padding-left:25px;	
+}	
+
+#box{	
+margin-top:0px;
+width:70%;
+height:100%;
+border:1px solid white;
+background-color:white;
+}	
+
+#header{
+padding-bottom:30px;
+background-color:white;
+}
+#hr1{
+position:relative;
+top:-18px;
+margin-top:0px;
+border:1.5px solid #5DADE2;
+margin-bottom:1px;	
+}
+
+#post{
+height:100%;
+width:370px;
+border: 1px solid black;
+background-color:white;
+margin-bottom: 30px;
+}	
+
+#title{
+font-size:30px;
+background-color:#5DADE2;
+padding-top:5px;
+padding-bottom:7px;
+}	
+
+#inhalt{
+font-size:16px;	
+text-align:left;
+background-color:white;
+height:10%;
+padding-bottom:10px;
+padding-left:15px;
+}	
+
+#likes{
+	background-color:#f2f2f2;
+	text-align:right;
+	position:relative;
+	top:60%;
+	padding-right:25px;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top: 15px;
+}
+#newpost{
+	background-color:#f2f2f2;	
+	position:relative;
+	left:40%;
+	margin:20px;
+	border:1px solid #f3f3f3;
+	text-align:center;
+	display:inline-block;
+	padding: 14px 40px;
+	border-radius:8px;
+}
+#newpost:hover{
+border:1px solid #5DADE2;
+color:#5DADE2;	
+}
+
+#form1{
+background-color:white;	
+}
+
+#img{
+height:200px;
+padding:7px;	
+}
+#like_button{
+position:relative;
+left:-250px;	
+top: -9px;
+text-align:center;
+display:inline-block;
+padding: 6px 19px;
+border-radius:8px;
+}
+#like_button:active{
+background-color:#5DADE2;	
+}
+#like_button:hover{
+background-color:#5DADE2;	
+}
+#aktpost{
+	visibility: hidden;
+}
